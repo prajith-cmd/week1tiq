@@ -1,0 +1,48 @@
+#head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:brown;
+}
+body{
+    background-color: antiquewhite;
+    padding: 30px;
+    border:5px solid black;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color:brown;
+}
+#iss{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ikk{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    text-align: center;
+}
+#lk{
+    color: black;
+}
+#gh{
+    color:black;
+}
+#navi{
+    text-align: center;
+    color:rgb(203, 72, 94);
+    padding-bottom: 5px;
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#fr{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#bg{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
